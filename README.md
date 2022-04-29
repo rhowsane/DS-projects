@@ -13,4 +13,4 @@
 - Who are the people eligible to join the loyalty program?<br />
 - What are the main characteristics of these customers?<br />
 - What actions can the marketing team take to increase revenue?<br />
-**Keywords**: data manipulation, outliers treatement, standardization, clusterization, K-Means, business discussion
+**Keywords**: data manipulation, outliers treatement, standardization, clusterization, K-Means, scatterplot, business discussion
