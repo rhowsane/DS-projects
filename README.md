@@ -13,4 +13,6 @@
 - Who are the people eligible to join the loyalty program?<br />
 - What are the main characteristics of these customers?<br />
 - What actions can the marketing team take to increase revenue?<br />
-**Keywords**: data manipulation, outliers treatement, standardization, clusterization, K-Means, scatterplot, business discussion
+**Keywords**: data manipulation, outliers treatement, standardization, clusterization, K-Means, scatterplot, business discussion<br />
+My discussion of this problem is available at my medium page:<br />
+[costumer-segmentation-for-an-e-commerce-retail](https://medium.com/@rhowsane/costumer-segmentation-for-an-e-commerce-retail-2a790efd943f)
