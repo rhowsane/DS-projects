@@ -15,4 +15,4 @@
 - What actions can the marketing team take to increase revenue?<br />
 **Keywords**: data manipulation, outliers treatement, standardization, clusterization, K-Means, scatterplot, business discussion<br />
 My discussion of this problem is available at my medium page:<br />
-[costumer-segmentation-for-an-e-commerce-retail](https://medium.com/@rhowsane/costumer-segmentation-for-an-e-commerce-retail-2a790efd943f)
+[customer-segmentation-for-an-e-commerce-retail](https://medium.com/@rhowsane/costumer-segmentation-for-an-e-commerce-retail-2a790efd943f)
