@@ -16,3 +16,11 @@
 **Keywords**: data manipulation, outliers treatement, standardization, clusterization, K-Means, scatterplot, business discussion<br />
 My discussion of this problem is available at my medium page:<br />
 [customer-segmentation-for-an-e-commerce-retail](https://medium.com/@rhowsane/costumer-segmentation-for-an-e-commerce-retail-2a790efd943f)
+
+
+**3rd Dataset:** with acess to a dataset ratings of a prestigious site of instant ramen we aim to gather some answers.<br />
+**Questions**: 
+- How does customer age and gender influence their purchasing behavior? <br />
+- Are there discernible patterns in sales across different time periods? <br />
+- How do customers adapt their shopping habits during seasonal trends? <br />
+**Keywords**: PowerBI, trends, KPIs
