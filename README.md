@@ -1,4 +1,4 @@
-# DS-projects
+# DS-DA projects
 
 **1st Dataset:** with acess to a dataset ratings of a prestigious site of instant ramen we aim to gather some answers.<br />
 **Questions**: 
